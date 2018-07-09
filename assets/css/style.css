@@ -36,3 +36,13 @@ border: 1px solid #f00;
 content:"this is awesome";
 border: 1px solid #00f;
 }
+
+button {
+	background: #883030;
+    border-radius: 5px;
+    padding: 7px;
+    color: #fff;
+    border: #883030;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
